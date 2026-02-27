@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1024 1024" role="img" aria-label="Coolock Village logo">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0f3d2e"/>
+      <stop offset="1" stop-color="#2a9d6a"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="0.3" cy="0.2" r="0.9">
+      <stop offset="0" stop-color="#ffffff" stop-opacity="0.22"/>
+      <stop offset="1" stop-color="#ffffff" stop-opacity="0"/>
+    </radialGradient>
+    <filter id="shadow" x="-20%" y="-20%" width="140%" height="140%">
+      <feDropShadow dx="0" dy="12" stdDeviation="18" flood-color="#072419" flood-opacity="0.35"/>
+    </filter>
+  </defs>
+
+  <rect width="1024" height="1024" rx="230" fill="url(#bg)"/>
+  <rect width="1024" height="1024" rx="230" fill="url(#glow)"/>
+
+  <g filter="url(#shadow)">
+    <path d="M512 150c-164 0-296 132-296 296 0 188 197 323 282 449a18 18 0 0 0 28 0c85-126 282-261 282-449 0-164-132-296-296-296Z" fill="#f4f0e6"/>
+    <circle cx="512" cy="436" r="184" fill="#1d6f4f"/>
+
+    <path d="M382 465 512 355l130 110v121H382z" fill="#f4f0e6"/>
+    <rect x="435" y="505" width="154" height="92" rx="14" fill="#f4f0e6"/>
+    <rect x="487" y="523" width="50" height="74" rx="8" fill="#1d6f4f"/>
+
+    <rect x="352" y="620" width="320" height="24" rx="12" fill="#f4f0e6" opacity="0.95"/>
+    <path d="M372 694c54-30 96-30 140 0s86 30 140 0" fill="none" stroke="#f4f0e6" stroke-width="22" stroke-linecap="round"/>
+  </g>
+</svg>
