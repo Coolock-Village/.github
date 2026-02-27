@@ -14,13 +14,13 @@ gh repo create Coolock-Village/.github --public --source=. --remote=origin --pus
 
 ## 1. Organization profile README
 
-- File already prepared: `.github/profile/README.md`
+- File already prepared: `profile/README.md`
 - Upload this content to the org `.github` repo to enable the public org profile page.
 
 ## 2. Organization avatar/logo
 
-- Source logo: `.github/profile/assets/coolock-village-org-logo.svg`
-- PNG upload file: `.github/profile/assets/coolock-village-org-logo.png`
+- Source logo: `profile/assets/coolock-village-org-logo.svg`
+- PNG upload file: `profile/assets/coolock-village-org-logo.png`
 
 ## 3. Suggested GitHub org fields
 
