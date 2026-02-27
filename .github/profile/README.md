@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/coolock-village-org-logo.png" alt="Coolock Village logo" width="180" />
+  <img src="https://raw.githubusercontent.com/Coolock-Village/.github/main/.github/profile/assets/coolock-village-org-logo.png" alt="Coolock Village logo" width="180" />
 </p>
 
 # Coolock Village
